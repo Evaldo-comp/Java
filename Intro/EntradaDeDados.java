@@ -12,7 +12,7 @@ import java.util.Scanner; //importa a classe Scanner para a captura de dados do 
 
 public class EntradaDeDados
 {
-// método main inicia a execução do aplicativo Java
+// método main inicia a execução do aplicativo Java.
 	public static void main(String[] args)
 	{
 		//cria um scanner para receber dados a partir do terminal

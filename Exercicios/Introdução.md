@@ -38,5 +38,21 @@ d) Os seguintes nomes são todos de variável inválidos: 3g , 87 , 67h2 , h22 e
 
 :pencil2: [Solução](https://github.com/Evaldo-comp/Java_Teoria-e-Pratica/blob/master/Exercicios/Solu%C3%A7%C3%A3o_Introdu%C3%A7%C3%A3o/Exe03.md)
 
+______
+
+#### 4. Supondo que x = 2 e y = 3 , o que cada uma das instruções a seguir exibe?
+
+a) System.out.printf(“x = %d%n”, x);
+
+b) System.out.printf(“Value of %d + %d is %d%n”, x, x, (x + x));
+
+c) System.out.printf(“x =”);
+
+d) System.out.printf(“%d = %d%n”, (x + y), (y + x));
+
+:pencil2: [Solução](https://github.com/Evaldo-comp/Java_Teoria-e-Pratica/blob/master/Exercicios/Solu%C3%A7%C3%A3o_Introdu%C3%A7%C3%A3o/Exe04.md)
+
+
+
 
 :house: [HOME](https://github.com/Evaldo-comp/Java_Teoria-e-Pratica)

@@ -3,11 +3,13 @@
 #### 2. Escreva instruções Java que realizam cada uma das seguintes tarefas:
 
 a) Exibir a mensagem “Enter an integer: “ , deixando o cursor na mesma linha.<br>
-***System.out.println(“Enter Integer: ”);***<br>
+***RE: System.out.println(“Enter Integer: ”);***<br>
+
 b) Atribuir o produto de variáveis b e c para a variável a .<br>
-***a = b * c ;***<br>
+***RE: a = b * c ;***<br>
+
 c) Utilizar um comentário para afirmar que um programa executa um cálculo de exemplo de folha de pagamento<br>
-***// Este programa executa um cálculo de exemplo de folha de pagamento***<br>
+***RE: // Este programa executa um cálculo de exemplo de folha de pagamento***<br>
      
     
   **Fonte do Exercicio:** <br>

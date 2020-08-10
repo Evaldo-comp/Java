@@ -2,7 +2,7 @@
 /******************************************************************************
 
 Fazer um programa para ler um valor inteiro de 1 a 7 represetando um dia da semana
-(sendo 1 = domingo, 2 = Segunda, e assim por diante).
+(sendo 1 = Domingo, 2 = Segunda, e assim por diante).
 Escrever na tela o dia da semana correspondente, conforme exemplos.
 
 

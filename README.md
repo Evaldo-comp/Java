@@ -9,6 +9,7 @@ Esse repósitório contém estudos fundamentais de JAVA, dividido basicamente em
 *  [Estrutura de Repetição](https://github.com/Evaldo-comp/Java_Teoria-e-Pratica/blob/master/Teoria/Estruturas%20de%20Repeti%C3%A7%C3%A3o.md)
   
 #### Exercícios
+* [Introdução](https://github.com/Evaldo-comp/Java_Teoria-e-Pratica/blob/master/Exercicios/Introdu%C3%A7%C3%A3o.md)
 
   
 

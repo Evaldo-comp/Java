@@ -30,3 +30,39 @@ class Main {
 }
 ```
 
+______
+
+#### FOR
+
+Essa estrutura realiza uma repetição considerando um certo intervalo. Possui trẽs elememntos não obrigatórios, elemnto que starta o loop, a consição de teste e o incremento ou decremento que realiza o controle  do loop:<br>
+
+Estrutura:<br>
+> for(inicio; condicao; incremento){
+>    comando;
+> }
+
+Exemplo:
+```Java
+import java.util.*;
+class Main {
+ public static void main(String[] args) {
+     Scanner input = new Scanner(System.in);
+    int soma = 0, num=1;  
+    num = input.nextInt();
+  
+    for(int i =0; i < num; i++){
+     int x= input.nextInt();
+     soma+=x;
+   }
+    System.out.printf("%d", soma);
+  
+ }
+}
+```
+
+______
+
+
+
+
+

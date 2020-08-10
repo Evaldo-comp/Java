@@ -63,6 +63,47 @@ class Main {
 ______
 
 
+### DO WHILE
+
+Semelhante ao while , essa estrutura de repetição irá execução o bloco que estiver no seu interior enquanto a condição for verdadeira, a diferença é que  o teste da condição é realizado depois da execução da instrução, ou seja, a instrução será executada pelo menos uma vez, estando certa ou errada.<br>
+
+***Estrutura:***
+> do{<br>
+>    comando;<br>
+> }while(condição);<br>
+
+***Exemplo:***
+```Java
+import java.util.*;
+class Main {
+ public static void main(String[] args) {
+ Scanner input = new Scanner(System.in);
+  int somaPar = 0, somaImpar=0, num=1;  
+  
+   do {
+     System.out.println("Digite um número qualquer ou 0 para sair");
+     num = input.nextInt();
+     if (num % 2 == 0){
+       somaPar += num;
+     }
+     else
+     {
+       somaImpar += num;
+     }
+    
+   }while(num!=0);
+     System.out.printf("A soma dos pares é %d e a soma dos impares é %d", somaPar, somaImpar);
+}
+ }   
+```
+
+______
+
+
+
+
+
+
 
 
 

@@ -15,4 +15,4 @@ chamada ***Variável.***<br>
     
   ______
   
-  :arrow_left: [Voltar para Exercícios](https://github.com/Evaldo-comp/C/blob/master/Exerc%C3%ADcios/introdu%C3%A7%C3%A3o.md)
+  :arrow_left: [Voltar para Exercícios](https://github.com/Evaldo-comp/Java_Teoria-e-Pratica/blob/master/Exercicios/Introdu%C3%A7%C3%A3o.md)

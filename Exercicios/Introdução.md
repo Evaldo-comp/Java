@@ -15,6 +15,18 @@ chamada ******<br> .
  
  ______
  
+#### 2. Escreva instruções Java que realizam cada uma das seguintes tarefas:
+
+a) Exibir a mensagem “Enter an integer: “ , deixando o cursor na mesma linha.<br>
+
+b) Atribuir o produto de variáveis b e c para a variável a .<br>
+
+c) Utilizar um comentário para afirmar que um programa executa um cálculo de exemplo de folha de pagamento<br>
+
+:pencil2: [Solução](https://github.com/Evaldo-comp/Java_Teoria-e-Pratica/blob/master/Exercicios/Solu%C3%A7%C3%A3o_Introdu%C3%A7%C3%A3o/Exe02.md)
+
+
+ 
  
 
 ______

@@ -11,7 +11,7 @@ f) Uma posição na memória do computador que pode conter valores diferentes v�
 chamada ******<br> .
 
       
- :pencil2: [Solução](https://github.com/Evaldo-comp/C/blob/master/Exerc%C3%ADcios/Solu%C3%A7%C3%B5es_Introdut%C3%B3rios/Exe01.md)
+ :pencil2: [Solução](https://github.com/Evaldo-comp/Java_Teoria-e-Pratica/blob/master/Exercicios/Solu%C3%A7%C3%A3o_Introdu%C3%A7%C3%A3o/Exe01.md)
  
  ______
  

@@ -15,7 +15,7 @@ public class Exercicio_2_20_2_23{
 
 		// item b
 		Scanner input = new Scanner(System.in);
-		i
+		i;
 		// 2.20 O que o seguinte código imprime?
 		System.out.println( "*" );
 		System.out.println( "***" );

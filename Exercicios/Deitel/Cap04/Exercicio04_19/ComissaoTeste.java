@@ -1,4 +1,4 @@
-package Cap04;
+
 import java.util.Scanner;
 public class ComissaoTeste {
 

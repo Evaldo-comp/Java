@@ -1,4 +1,4 @@
-package Exercicios.Exercicio04_17;
+
 
 public class Quilometragem {
 	private int quilometros, quilTotal;

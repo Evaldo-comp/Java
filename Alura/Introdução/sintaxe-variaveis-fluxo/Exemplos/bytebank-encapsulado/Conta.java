@@ -3,6 +3,17 @@ public class Conta {
     private int agencia;
     private int numero;
     private Cliente titular;
+    static int total;
+
+    // Contrutor
+    public Conta(int agencia, int numero){
+        Conta.total++;
+        System.out.println("O total de conta é  " + Conta.total);
+        this.agencia = agencia;
+        this.numero = numero;
+        System.out.println("estou criando uma conta " + this.numero);
+    }
+
 
     // metodo para depositar
     void deposito(double valor){
@@ -44,6 +55,9 @@ public class Conta {
     }
 
     public void setNumero(int numero){
+        if (numero <= 0){
+            System.out.println("Não pode número negativo");
+        }
         this.numero = numero;
     }
 
@@ -52,6 +66,10 @@ public class Conta {
     }
 
     public void setAgencia(int agencia) {
+        if (agencia <= 0){
+            System.out.println("Meu querido, não pode número negativo, sacou?");
+            return;
+        }
         this.agencia = agencia;
     }
 
@@ -61,5 +79,9 @@ public class Conta {
 
     public Cliente getTitular() {
         return titular;
+    }
+
+    public static int getTotal(){
+        return Conta.total;
     }
 }

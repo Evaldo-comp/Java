@@ -7,5 +7,6 @@ public class TesteFuncionario {
 
         System.out.println(evaldo.getNome());
         System.out.println(evaldo.getBonificacao());
+        
     }
 }
